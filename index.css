@@ -2,6 +2,20 @@ body {
     background-color:#1C1C1C;
 }
 
+head{
+    background-color: #5F9EA0;
+}
+
+nav li{
+    display: inline;
+}
+
+nav a {
+    color:darkorange;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
 .texto-principal {
     margin-right: 20%; 
 }
